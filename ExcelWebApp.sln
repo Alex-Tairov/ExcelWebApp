@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWebApp", "ExcelWebApp\ExcelWebApp.csproj", "{CCC7ECDA-66FB-457E-B715-F85E3245092F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWebApp.Db", "ExcelWebApp.Db\ExcelWebApp.Db.csproj", "{6ED90E43-ECF6-4E2E-A061-E4CD13C73CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC7ECDA-66FB-457E-B715-F85E3245092F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC7ECDA-66FB-457E-B715-F85E3245092F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC7ECDA-66FB-457E-B715-F85E3245092F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC7ECDA-66FB-457E-B715-F85E3245092F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED90E43-ECF6-4E2E-A061-E4CD13C73CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED90E43-ECF6-4E2E-A061-E4CD13C73CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED90E43-ECF6-4E2E-A061-E4CD13C73CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED90E43-ECF6-4E2E-A061-E4CD13C73CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DECD923-F154-49AF-B9DA-16A4B08C2E05}
+	EndGlobalSection
+EndGlobal
